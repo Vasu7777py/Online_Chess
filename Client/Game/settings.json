@@ -1,0 +1,15 @@
+{
+ "HomeWindow": {
+   "Buttons" : {
+     "Game": {
+       "Size": [160, 64],
+       "Position": ["x", "y"],
+       "Name": "Game",
+       "Base": [0, 255, 0],
+       "Hover": [0, 255, 255],
+       "Text_color": [255, 255, 0],
+       "text": "PLAY"
+     }
+   }
+ }
+}

@@ -1,0 +1,10 @@
+{
+  "Themes": [
+    {
+      "Name": "Default",
+      "Path": "./default/",
+      "PieceSize": 64,
+      "BoardSize": 512
+    }
+  ]
+}
